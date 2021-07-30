@@ -1,6 +1,4 @@
+agregamos algo
 print("Hola Mundo2")
-linea 1 adicional
-
-
-
-
+linea 2 adicional
+quitamos enteres
